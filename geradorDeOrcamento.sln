@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geradorDeOrcamento", "geradorDeOrcamento\geradorDeOrcamento.csproj", "{C58DC686-EB39-4449-BE89-28FE514C68B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58DC686-EB39-4449-BE89-28FE514C68B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58DC686-EB39-4449-BE89-28FE514C68B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58DC686-EB39-4449-BE89-28FE514C68B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58DC686-EB39-4449-BE89-28FE514C68B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF29D56-DD2C-48D1-8B9C-4CA19D3A1718}
+	EndGlobalSection
+EndGlobal
